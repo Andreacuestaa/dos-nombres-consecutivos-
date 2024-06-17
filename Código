@@ -1,6 +1,6 @@
 int main
   int x;
-  int y;
+  int y;//y es menor que x
   if (y== x+1) {
    prinft ("Els models són consecutius")
 }
